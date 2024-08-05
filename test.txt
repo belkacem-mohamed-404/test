@@ -3,3 +3,5 @@ yello
 green 
 blue
 sky blue
+black 
+gray
